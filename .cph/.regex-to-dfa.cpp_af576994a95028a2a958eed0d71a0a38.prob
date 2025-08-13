@@ -1,0 +1,1 @@
+{"name":"Local: regex-to-dfa","url":"/mnt/files/programms/cdl/regex-to-dfa.cpp","tests":[{"id":1755086585836,"input":"1\n(a|b)*a(a|b)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/files/programms/cdl/regex-to-dfa.cpp","group":"local","local":true}
